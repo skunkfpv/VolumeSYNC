@@ -5,6 +5,8 @@ Install Python from: https://www.python.org/downloads/ and then run install libr
 
 To discover what COM port your device is on, please run the COM SCANNER
 
+Download audrino code and upload VIA AUDRINO IDE
+
 # How To Help
 If you would like to support this and many other of my projects, here is the PayPal donation link.
 https://www.paypal.com/donate/?hosted_button_id=5FPENFPCJKS3Q
